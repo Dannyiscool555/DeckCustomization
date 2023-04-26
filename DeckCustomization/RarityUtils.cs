@@ -33,9 +33,9 @@ namespace DeckCustomization
 
         /*
         * Default Rarities are:
-        * Common: 1 (66.66667%)
-        * Uncommon: 0.4 (26.666667%)
-        * Rare: 0.1 (6.6666667%)
+        * Common: 1 (26.666667%)
+        * Uncommon: 0.4 (44.666667%)
+        * Rare: 0.1 (30.6666667%)
         */
 
         internal const float defaultGeneralRarity = 0.5f;
